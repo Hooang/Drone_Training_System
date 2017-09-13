@@ -1,6 +1,7 @@
 # Drone_Training_System
 
 2017 Hoseo University CE senior project
+
 Developer : Seong In-Seung, Kim Jin-Ho, Hwang In-Hu
 
 Version 1.0.0
